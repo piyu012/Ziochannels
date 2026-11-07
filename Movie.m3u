@@ -1,6 +1,3 @@
-# Generated 2026-11-05T13:36:51+00:00 | php-dangal-play-20-sonyliv-single-section
-#EXTM3U
-
 #EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
