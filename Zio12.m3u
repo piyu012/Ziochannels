@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="gadar2" tvg-name="Gadar 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Movies",Gadar 2
+#EXTINF:-1 tvg-id="gadar2" tvg-name="Gadar 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3IQrwcrAWRRMraoWVCxirxhId1MXZP9usw&s" group-title="Movies",Gadar 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29ecbefd8e9d4fcfa09878f74d5eb2b9:e9b3117837b8974aa1a9160697c0e46c
