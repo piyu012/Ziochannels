@@ -1,0 +1,7 @@
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2 (4K Dolby Vision)" tvg-logo="" group-titl>
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29ecbefd8e9d4fcfa09878f74d5eb2b9:e9b3>
+#EXTVLCOPT:http-user-agent=PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7
+#EXTHTTP:{"User-Agent":"PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7"}
+https://zee5vod.akamaized.net/drm1/elemental/dash/MOVIES/4K/DOLBYVISION/GADAR_2/>
