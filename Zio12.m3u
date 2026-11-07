@@ -1,6 +1,8 @@
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2 (4K Dolby Vision)" tvg-logo="" group-title="ZEE5 Movies",Gadar 2 (4K Dolby Vision)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29ecbefd8e9d4fcfa09878f74d5eb2b9:e9b3117837b8974aa1a9160697c0e46c
 #EXTVLCOPT:http-user-agent=PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7
 #EXTHTTP:{"User-Agent":"PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7"}
 https://zee5vod.akamaized.net/drm1/elemental/dash/MOVIES/4K/DOLBYVISION/GADAR_2/GADAR_2_DOLBY_17112023_hi_84a912a5e79acbe4a86d92bb9283e5e1/manifest.mpd
+#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg
