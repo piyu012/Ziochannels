@@ -1,8 +1,16 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="Gadar 2 (4K Dolby Vision)" tvg-logo="" group-title="ZEE5 Movies",Gadar 2 (4K Dolby Vision)
+#EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" tvg-url="https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
+# Generated 2026-11-07T07:52:09+00:00 | php-dangal-play-20-sonyliv-single-section
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment", Star Plus HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29ecbefd8e9d4fcfa09878f74d5eb2b9:e9b3117837b8974aa1a9160697c0e46c
+#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
 #EXTVLCOPT:http-user-agent=PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7
-#EXTHTTP:{"User-Agent":"PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7"}
-https://zee5vod.akamaized.net/drm1/elemental/dash/MOVIES/4K/DOLBYVISION/GADAR_2/GADAR_2_DOLBY_17112023_hi_84a912a5e79acbe4a86d92bb9283e5e1/manifest.mpd
+#EXTHTTP:{"cookie":"__hdnea__=st=1794037682~exp=1794059282~acl=/*~hmac=dd8338a19577a0151a37be6c336fdd900f7fa7b357f0126cf38656afa9a63125"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="1116" tvg-name="Star Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="Entertainment", Star Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae3d3b12ab0f5dada0f2423d1cc7b403:4577d96a74683b0c261cc5c0e30af011,911d8e8e9c645409b044dca3f5f82b45:c1fc9a8b91e4311d80eb6966ecd8647b,86cc5f899821572d824d4e5ada5ca90a:ef1e6497c816dbc95f7b42d7215707cd,2b0868c6e92b5d3490f688f8e75d9ebc:a1ef94ae152a30669ff77231763fc4f5,1b47214ae74557c1aed1b3678c565f94:f82bfec351105993a52ccb73cad1dd0c
+#EXTVLCOPT:http-user-agent=PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7
+#EXTHTTP:{"cookie":"__hdnea__=st=1794035720~exp=1794057320~acl=/bpk-tv/Star_Plus_BTS/WDVLive/*~hmac=286cdac7050c000ae3bcc759b8c56843a9b744941b5d0ab6a042c268671db2da"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd
